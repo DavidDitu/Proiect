@@ -1,1 +1,7 @@
-Descriere proiect
+Descriere proiect:
+1)Cerinte:
+2)Functionalitati
+3)UX(user experience)
+4)Integrare cu alte limbaje/sisteme
+5)Limbaje folosite
+6Cum face app viata mai buna
